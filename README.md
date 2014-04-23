@@ -8,4 +8,4 @@ DefiantCode.HostInfrastructure
 - WebApi config
 - owin host config
 - WebApi in-memory test harness
-- AutoMapper auto-registrtion of profiles
+- AutoMapper auto-registration of profiles
